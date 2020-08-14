@@ -18,6 +18,8 @@ TBD
 ## Useful Technical Articles
 
 - [SSH Setup at Facebook](https://engineering.fb.com/security/scalable-and-secure-access-with-ssh/)
+- [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+
 
 ## Standards
 
