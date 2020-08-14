@@ -3,7 +3,7 @@
 ## Documentation
 
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#comments)
-- [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records)
+- [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records) ([HN Discussion](https://news.ycombinator.com/item?id=24146594))
 
 ## Blogging
 
