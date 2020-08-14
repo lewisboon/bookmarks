@@ -16,3 +16,7 @@ TBD
 ## Useful Technical Articles
 
 - [SSH Setup at Facebook](https://engineering.fb.com/security/scalable-and-secure-access-with-ssh/)
+
+## Standards
+
+- [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
