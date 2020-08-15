@@ -19,6 +19,7 @@ TBD
 
 - [SSH Setup at Facebook](https://engineering.fb.com/security/scalable-and-secure-access-with-ssh/)
 - [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+- [A Warm Welcome to ASN.1 and DER](https://letsencrypt.org/docs/a-warm-welcome-to-asn1-and-der/)
 
 
 ## Standards
