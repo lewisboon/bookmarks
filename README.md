@@ -24,3 +24,7 @@ TBD
 ## Standards
 
 - [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+
+## Interesting Articles
+
+- [Facebook Redesign](https://engineering.fb.com/web/facebook-redesign/)
