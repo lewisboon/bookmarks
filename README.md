@@ -22,7 +22,7 @@ TBD
 - [A Warm Welcome to ASN.1 and DER](https://letsencrypt.org/docs/a-warm-welcome-to-asn1-and-der/)
 - [What Happens When... Kubernetes Edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 - [The tool that really runs your containers: deep dive into runc and OCI specifications](https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
-
+- [Definitive Guide to Linux Syscalls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 
 ## Standards
 
