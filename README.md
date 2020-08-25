@@ -8,6 +8,7 @@
 - [Blogging for Devs](https://bloggingfordevs.com/)
 - [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
   - On a similar note, [Hemingway App](http://www.hemingwayapp.com/) can be good for automatically proofreading content.
+- [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 
 ## Guides
 
