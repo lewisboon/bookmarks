@@ -7,6 +7,7 @@
 [Example ADR](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_jeff_tyree_and_art_akerman.md)
 - [Blogging for Devs](https://bloggingfordevs.com/)
 - [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+  - On a similar note, [Hemingway App](http://www.hemingwayapp.com/) can be good for automatically proofreading content.
 
 ## Guides
 
