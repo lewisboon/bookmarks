@@ -6,6 +6,7 @@
 - [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records) ([HN Discussion](https://news.ycombinator.com/item?id=24146594)) 
 [Example ADR](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_jeff_tyree_and_art_akerman.md)
 - [Blogging for Devs](https://bloggingfordevs.com/)
+- [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 
 ## Guides
 
