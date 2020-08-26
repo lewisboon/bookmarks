@@ -13,6 +13,7 @@
 ## Guides
 
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+- [Hands on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 
 ## Blogs
 
