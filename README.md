@@ -37,3 +37,4 @@ TBD
 ## Interesting Articles
 
 - [Facebook Redesign](https://engineering.fb.com/web/facebook-redesign/)
+- [To all jobs I had before](https://elisabethirgens.github.io/notes/2020/09/to-all-jobs-i-had-before/) - [HN](https://news.ycombinator.com/item?id=24502983)
