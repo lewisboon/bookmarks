@@ -1,6 +1,6 @@
 # Bookmarks
 
-## Documentation
+## How to Write Documentation
 
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#comments)
 - [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records) ([HN Discussion](https://news.ycombinator.com/item?id=24146594)) 
@@ -17,7 +17,9 @@
 
 ## Blogs
 
-TBD
+### Blog Posts
+
+- [A categorized list of all Java and JVM features since JDK 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
 
 ## Useful Technical Articles
 
