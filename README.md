@@ -32,6 +32,7 @@
 - [Definitive Guide to Linux Syscalls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Stack Overflow: A Technical Deconstruction](https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/)
+- [How to Build a Highly Available System Using Consensus - Butler Lampson](http://bwlampson.site/58-Consensus/WebPage.html)
 
 ## Standards
 
