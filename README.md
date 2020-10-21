@@ -35,6 +35,7 @@
 - [How to Build a Highly Available System Using Consensus - Butler Lampson](http://bwlampson.site/58-Consensus/WebPage.html)
 - [Microsoft Cloud Architecture Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [How Facebook is using QUIC](https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions/)
+- [Zero Downtime Releases](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 
 ## Standards
 
