@@ -52,3 +52,9 @@
 
 - [Plausible - Google Analytics alternative that can be self hosted](https://plausible.io/)
 - [Commento - Disqus Alternative that can be self hosted](https://gitlab.com/commento/commento)
+
+## Language Specific
+
+### Rust
+
+- [Periodic Table of Rust Types](https://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
