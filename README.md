@@ -37,6 +37,7 @@
 - [How Facebook is using QUIC](https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions/)
 - [Zero Downtime Releases](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 - [What's in a Linux Executable](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) - [HN](https://news.ycombinator.com/item?id=24926925)
+- [Bash Error Handling](https://news.ycombinator.com/item?id=24727495)
 
 ## Standards
 
