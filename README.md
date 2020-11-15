@@ -53,6 +53,7 @@
 
 - [Plausible - Google Analytics alternative that can be self hosted](https://plausible.io/)
 - [Commento - Disqus Alternative that can be self hosted](https://gitlab.com/commento/commento)
+- [mtail - Generate metrics from logs](https://github.com/google/mtail)
 
 ## Language Specific
 
