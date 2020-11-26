@@ -39,6 +39,7 @@
 - [Zero Downtime Releases](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 - [What's in a Linux Executable](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) - [HN](https://news.ycombinator.com/item?id=24926925)
 - [Bash Error Handling](https://news.ycombinator.com/item?id=24727495)
+- [io_uring and uBPF in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 
 ## Standards
 
