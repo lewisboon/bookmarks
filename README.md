@@ -22,6 +22,7 @@
 ### Blog Posts
 
 - [A categorized list of all Java and JVM features since JDK 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
+- [Metaspace improvements in Java 16](https://lkorinth.github.io/posts/2020-11-27-metaspace.html)
 
 ## Useful Technical Articles
 
