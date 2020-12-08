@@ -61,6 +61,10 @@
 
 ## Language Specific
 
+### JavaScript
+
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
 ### Rust
 
 - [Periodic Table of Rust Types](https://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
