@@ -24,6 +24,7 @@
 
 - [A categorized list of all Java and JVM features since JDK 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
 - [Metaspace improvements in Java 16](https://lkorinth.github.io/posts/2020-11-27-metaspace.html)
+- [How we build the Github Globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/) - [HN](https://news.ycombinator.com/item?id=25584720)
 
 ## Useful Technical Articles
 
