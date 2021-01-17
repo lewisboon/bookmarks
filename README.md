@@ -54,6 +54,10 @@
 
 - [Bash Error Handling](https://news.ycombinator.com/item?id=24727495)
 
+### Golang
+
+- [Ask HN: Which are the best Go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
+
 ### Java
 
 - [A categorized list of all Java and JVM features since JDK 8 to 15](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-15/)
