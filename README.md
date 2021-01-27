@@ -84,6 +84,7 @@
 
 - [vulhub - Github repo of vulnerable images for security testing](https://github.com/vulhub/vulhub)
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
+- [Culture Queries - The best questions to ask your interviewer)[https://www.keyvalues.com/culture-queries]
 
 ## Artistic
 
