@@ -11,6 +11,10 @@
 - [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 - [Writing well by Julian Shapiro](https://www.julian.com/guide/write/intro)
 
+## UI/UX/Web
+
+- [A comprehensive list of UX design methods & deliverables](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
+
 ## Useful Technical Articles
 
 - [SSH Setup at Facebook](https://engineering.fb.com/security/scalable-and-secure-access-with-ssh/)
