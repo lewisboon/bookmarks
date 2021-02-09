@@ -55,6 +55,7 @@
 
 - [Plausible - Google Analytics alternative that can be self hosted](https://plausible.io/)
 - [Commento - Disqus Alternative that can be self hosted](https://gitlab.com/commento/commento)
+- [ORY - Open Source OAuth 2.0/OIDC Server](https://www.ory.sh/hydra/)
 - [mtail - Generate metrics from logs](https://github.com/google/mtail)
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 
