@@ -21,7 +21,7 @@ Collection of articles, documentation and applications that are useful.
 ## Security
 
 - [vulhub - Github repo of vulnerable images for security testing](https://github.com/vulhub/vulhub)
-- [https://securityheaders.com/](HTTP Security Header Checker)
+- [HTTP Security Header Checker](https://securityheaders.com/)
 - [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
 - [OWASP AppSec Cheatsheet](https://cheatsheetseries.owasp.org/Glossary.html)
 
