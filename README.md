@@ -2,29 +2,6 @@
 
 Collection of articles, documentation and applications that are useful.
 
-## How to Write Documentation
-
-- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#comments)
-- [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records) ([HN Discussion](https://news.ycombinator.com/item?id=24146594)) 
-[Example ADR](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_jeff_tyree_and_art_akerman.md)
-- [Blogging for Devs](https://bloggingfordevs.com/)
-- [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
-  - On a similar note, [Hemingway App](http://www.hemingwayapp.com/) can be good for automatically proofreading content.
-- [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
-- [Writing well by Julian Shapiro](https://www.julian.com/guide/write/intro)
-
-## UI/UX/Web
-
-- [A comprehensive list of UX design methods & deliverables](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
-- [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/) - [HN](https://news.ycombinator.com/item?id=24688736)
-
-## Security
-
-- [vulhub - Github repo of vulnerable images for security testing](https://github.com/vulhub/vulhub)
-- [HTTP Security Header Checker](https://securityheaders.com/)
-- [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
-- [OWASP AppSec Cheatsheet](https://cheatsheetseries.owasp.org/Glossary.html)
-
 ## Useful Technical Articles
 
 - [SSH Setup at Facebook](https://engineering.fb.com/security/scalable-and-secure-access-with-ssh/)
@@ -42,6 +19,10 @@ Collection of articles, documentation and applications that are useful.
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) - ([TCMalloc Design](https://google.github.io/tcmalloc/design.html))
+
+## SDLC & Process
+
+- [How they SRE](https://github.com/upgundecha/howtheysre)
 
 ## Standards
 
@@ -98,6 +79,29 @@ Collection of articles, documentation and applications that are useful.
 ### WASM
 
 - [Hands on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+
+## Security
+
+- [vulhub - Github repo of vulnerable images for security testing](https://github.com/vulhub/vulhub)
+- [HTTP Security Header Checker](https://securityheaders.com/)
+- [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
+- [OWASP AppSec Cheatsheet](https://cheatsheetseries.owasp.org/Glossary.html)
+
+## How to Write Documentation
+
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#comments)
+- [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records) ([HN Discussion](https://news.ycombinator.com/item?id=24146594)) 
+[Example ADR](https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_jeff_tyree_and_art_akerman.md)
+- [Blogging for Devs](https://bloggingfordevs.com/)
+- [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+  - On a similar note, [Hemingway App](http://www.hemingwayapp.com/) can be good for automatically proofreading content.
+- [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+- [Writing well by Julian Shapiro](https://www.julian.com/guide/write/intro)
+
+## UI/UX/Web
+
+- [A comprehensive list of UX design methods & deliverables](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
+- [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/) - [HN](https://news.ycombinator.com/item?id=24688736)
 
 ## Misc
 
