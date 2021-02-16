@@ -68,6 +68,11 @@ Collection of articles, documentation and applications that are useful.
 
 - [Bash Error Handling](https://news.ycombinator.com/item?id=24727495)
 
+### F#
+
+- [Why use F#](https://fsharpforfunandprofit.com/posts/why-use-fsharp-conclusion//)
+  - [Thinking Functionally](https://fsharpforfunandprofit.com/series/thinking-functionally/)
+
 ### Golang
 
 - [Ask HN: Which are the best Go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
