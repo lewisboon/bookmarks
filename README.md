@@ -106,7 +106,7 @@ Collection of articles, documentation and applications that are useful.
 ## Misc
 
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
-- [Culture Queries - The best questions to ask your interviewer)[https://www.keyvalues.com/culture-queries]
+- [Culture Queries - The best questions to ask your interviewer](https://www.keyvalues.com/culture-queries)
 
 ## Artistic
 
