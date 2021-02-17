@@ -111,3 +111,6 @@ Collection of articles, documentation and applications that are useful.
 ## Artistic
 
 - [Youtube Audio Library - Free Stock Music](https://studio.youtube.com/channel/UCD-2HtErgkrYu_WQfLFn6fg/music)
+
+## Blogs
+- [Stay SaaSy](https://staysaasy.com/)
