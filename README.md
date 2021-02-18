@@ -23,6 +23,7 @@ Collection of articles, documentation and applications that are useful.
 ## SDLC & Process
 
 - [How they SRE](https://github.com/upgundecha/howtheysre)
+- [The Spotify Model - Squads, Tribes, Chapters, and Guides](https://www.atlassian.com/agile/agile-at-scale/spotify)
 
 ## Standards
 
