@@ -109,9 +109,14 @@ Collection of articles, documentation and applications that are useful.
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 - [Culture Queries - The best questions to ask your interviewer](https://www.keyvalues.com/culture-queries)
 
+## Technical Writing
+
+- [Technical Writing Handbook](https://help.dozuki.com/Tech_Writing)
+
 ## Artistic
 
 - [Youtube Audio Library - Free Stock Music](https://studio.youtube.com/channel/UCD-2HtErgkrYu_WQfLFn6fg/music)
 
 ## Blogs
+
 - [Stay SaaSy](https://staysaasy.com/)
