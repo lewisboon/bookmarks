@@ -50,6 +50,7 @@ Collection of articles, documentation and applications that are useful.
 ### Bash
 
 - [Bash Error Handling](https://news.ycombinator.com/item?id=24727495)
+- [ShellCheck](https://github.com/koalaman/shellcheck)
 
 ### F#
 
