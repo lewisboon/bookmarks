@@ -19,6 +19,7 @@ Collection of articles, documentation and applications that are useful.
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) - ([TCMalloc Design](https://google.github.io/tcmalloc/design.html))
+- [Modules, Monoliths and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 
 ## SDLC & Process
 
