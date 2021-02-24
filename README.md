@@ -39,6 +39,7 @@ Collection of articles, documentation and applications that are useful.
 ## Software
 
 - [Plausible - Google Analytics alternative that can be self hosted](https://plausible.io/)
+- [Listmonk - Self-hosted open source newsletter and mailing list manager](https://github.com/knadh/listmonk) - [HN](https://news.ycombinator.com/item?id=20421243)
 - [Commento - Disqus Alternative that can be self hosted](https://gitlab.com/commento/commento)
 - [ORY - Open Source OAuth 2.0/OIDC Server](https://www.ory.sh/hydra/)
 - [mtail - Generate metrics from logs](https://github.com/google/mtail)
