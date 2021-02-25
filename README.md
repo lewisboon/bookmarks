@@ -20,6 +20,7 @@ Collection of articles, documentation and applications that are useful.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) - ([TCMalloc Design](https://google.github.io/tcmalloc/design.html))
 - [Modules, Monoliths and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
+- [An Introduction To Building And Sending HTML Email For Web Developers](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
 
 ## SDLC & Process
 
