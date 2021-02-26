@@ -109,6 +109,7 @@ Collection of articles, documentation and applications that are useful.
 - [A comprehensive list of UX design methods & deliverables](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
 - [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/) - [HN](https://news.ycombinator.com/item?id=24688736)
 - [Enterprise UX Design: Make me think](https://adamfard.com/blog/enterprise-ux)
+- [CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 
 ## Misc
 
