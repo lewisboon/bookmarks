@@ -116,6 +116,7 @@ Collection of articles, documentation and applications that are useful.
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
 - [Culture Queries - The best questions to ask your interviewer](https://www.keyvalues.com/culture-queries)
 - [Supply Chain of the Pfizer-BioNTech and Moderna COVID-19 Vaccines](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
+- [GoLand Tips and Tricks](https://github.com/JetBrains/golandtipsandtricks)
 
 ## Technical Writing
 
