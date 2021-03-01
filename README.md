@@ -21,6 +21,7 @@ Collection of articles, documentation and applications that are useful.
 - [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/) - ([TCMalloc Design](https://google.github.io/tcmalloc/design.html))
 - [Modules, Monoliths and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 - [An Introduction To Building And Sending HTML Email For Web Developers](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
+- [How I cut GTRA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - [HN](https://news.ycombinator.com/item?id=26296339)
 
 ## SDLC & Process
 
