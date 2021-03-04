@@ -27,6 +27,7 @@ Collection of articles, documentation and applications that are useful.
 
 - [How they SRE](https://github.com/upgundecha/howtheysre)
 - [The Spotify Model - Squads, Tribes, Chapters, and Guides](https://www.atlassian.com/agile/agile-at-scale/spotify)
+- [FCA Publication: Implementing Technology Change](https://www.fca.org.uk/publications/multi-firm-reviews/implementing-technology-change)
 
 ## Standards
 
