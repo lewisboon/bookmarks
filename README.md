@@ -99,6 +99,7 @@ Collection of articles, documentation and applications that are useful.
 - [HTTP Security Header Checker](https://securityheaders.com/)
 - [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
 - [OWASP AppSec Cheatsheet](https://cheatsheetseries.owasp.org/Glossary.html)
+- [sigstore - non-profit, public good software signing & transparency service](https://sigstore.dev/)
 
 ## How to Write Documentation
 
