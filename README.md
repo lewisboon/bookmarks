@@ -49,6 +49,7 @@ Collection of articles, documentation and applications that are useful.
 - [ORY - Open Source OAuth 2.0/OIDC Server](https://www.ory.sh/hydra/)
 - [mtail - Generate metrics from logs](https://github.com/google/mtail)
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
+- [ConsoleMe: A Central Control Plane for AWS Permissions and Access - Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8
 
 ## Languages
 
