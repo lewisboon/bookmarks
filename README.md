@@ -102,6 +102,7 @@ Collection of articles, documentation and applications that are useful.
 - [Adding salt to hashing: A better way to store passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/)
 - [OWASP AppSec Cheatsheet](https://cheatsheetseries.owasp.org/Glossary.html)
 - [sigstore - non-profit, public good software signing & transparency service](https://sigstore.dev/)
+- [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - [HN Discussion](https://news.ycombinator.com/item?id=26446337)
 
 ## How to Write Documentation
 
