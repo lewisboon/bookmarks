@@ -138,6 +138,7 @@ Collection of articles, documentation and applications that are useful.
 - [Supply Chain of the Pfizer-BioNTech and Moderna COVID-19 Vaccines](https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/)
 - [GoLand Tips and Tricks](https://github.com/JetBrains/golandtipsandtricks)
 - [Youtube Audio Library - Free Stock Music](https://studio.youtube.com/channel/UCD-2HtErgkrYu_WQfLFn6fg/music)
+- [Track your professional stats like a pro athlete to give your resume power](https://blog.petdance.com/2011/11/14/track-your-stats-like-a-pro-athlete-to-give-your-resume-power/)
 
 ## Blogs
 
