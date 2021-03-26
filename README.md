@@ -62,6 +62,7 @@ Collection of articles, documentation and applications that are useful.
 
 - [Ask HN: Which are the best Go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
 - [I Want Off Mr Golangs Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
+- [Practical Go Lessons](https://www.practical-go-lessons.com/) - [HN Discussion](https://news.ycombinator.com/item?id=26568014)
 
 ### Java
 
