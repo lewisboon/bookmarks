@@ -116,7 +116,7 @@ Collection of articles, documentation and applications that are useful.
 - [sigstore - non-profit, public good software signing & transparency service](https://sigstore.dev/)
 - [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - [HN Discussion](https://news.ycombinator.com/item?id=26446337)
 
-## How to Write Documentation
+## How to Write
 
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/#comments)
 - [Why write ADRs](https://github.blog/2020-08-13-why-write-adrs/) (Architecture Design Records) ([HN Discussion](https://news.ycombinator.com/item?id=24146594)) 
@@ -127,6 +127,7 @@ Collection of articles, documentation and applications that are useful.
 - [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 - [Writing well by Julian Shapiro](https://www.julian.com/guide/write/intro)
 - [Technical Writing Handbook](https://help.dozuki.com/Tech_Writing)
+- [Writing tools I learned from The Economist - Ahmed Soliman](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) - [HN Discussion](https://news.ycombinator.com/item?id=26700319)
 
 ## UI/UX/Web
 
