@@ -101,6 +101,7 @@ Collection of articles, documentation and applications that are useful.
 - [Microsoft Cloud Architecture Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- [One Man SaaS Architecture - Anthony Najjar Simon](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 
 ## Docker, OCI, and Kubernetes
 
