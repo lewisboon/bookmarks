@@ -71,6 +71,7 @@ Collection of articles, documentation and applications that are useful.
 - [Metaspace improvements in Java 16](https://lkorinth.github.io/posts/2020-11-27-metaspace.html)
 - [Thread-Local Allocation Buffers in JVM](https://alidg.me/blog/2019/6/21/tlab-jvm)
 - [The Exceptional Performance of Lil' Exception](https://shipilev.net/blog/2014/exceptional-performance/)
+- [JMC Tutorial](https://github.com/thegreystone/jmc-tutorial) - [JMC 8 Binary Releases Blog Post - Marcus Hirt](http://hirt.se/blog/?p=1312)
 
 ### JavaScript
 
