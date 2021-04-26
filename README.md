@@ -68,6 +68,7 @@ Collection of articles, documentation and applications that are useful.
 - [I Want Off Mr Golangs Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
 - [Practical Go Lessons](https://www.practical-go-lessons.com/) - [HN Discussion](https://news.ycombinator.com/item?id=26568014)
 - [Golang Standards: Project Layout](https://github.com/golang-standards/project-layout)
+- [Different approaches to HTTP routing in Go - Ben Hoyt](https://benhoyt.com/writings/go-routing/)
 
 ### Java
 
