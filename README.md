@@ -144,6 +144,7 @@ Collection of articles, documentation and applications that are useful.
 - [Enterprise UX Design: Make me think](https://adamfard.com/blog/enterprise-ux)
 - [CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
+- [My Current HTML Boilerplate - Manuel Matuzovic](https://www.matuzo.at/blog/html-boilerplate/)
 
 ## Misc
 
