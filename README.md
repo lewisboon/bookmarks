@@ -91,6 +91,7 @@ Collection of articles, documentation and applications that are useful.
 - [Starter Kit 2020](https://wiki.alopex.li/RustStarterKit2020) - [HN](https://news.ycombinator.com/item?id=24671403)
 - [Reasons Rust compiles slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
 - [coreutils - Rewrite of GNU coreutils in Rust](https://github.com/uutils/coreutils)
+- [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 
 #### Rust @ _
 - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
