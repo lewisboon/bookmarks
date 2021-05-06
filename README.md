@@ -92,6 +92,7 @@ Collection of articles, documentation and applications that are useful.
 - [Reasons Rust compiles slowly](https://pingcap.com/blog/reasons-rust-compiles-slowly)
 - [coreutils - Rewrite of GNU coreutils in Rust](https://github.com/uutils/coreutils)
 - [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
+- [Rust's Runtime - Michael Gattozzi](https://blog.mgattozzi.dev/rusts-runtime/)
 
 #### Rust @ _
 - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
