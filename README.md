@@ -94,6 +94,7 @@ Collection of articles, documentation and applications that are useful.
 - [Rust's Most Unrecognized Contributor](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor)
 - [Rust's Runtime - Michael Gattozzi](https://blog.mgattozzi.dev/rusts-runtime/)
 - [Traits and static dispatch in Rust](https://blog.rust-lang.org/2015/05/11/traits.html)
+- [Status quo stories - How developers are using Rust](https://rust-lang.github.io/wg-async-foundations/vision/status_quo.html)
 
 #### Rust @ _
 - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
