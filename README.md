@@ -162,3 +162,4 @@ Collection of articles, documentation and applications that are useful.
 ## Blogs
 
 - [Stay SaaSy](https://staysaasy.com/)
+- [Stratechery - Analysis of tech and media companies](https://stratechery.com/)
