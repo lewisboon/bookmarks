@@ -48,6 +48,7 @@ Collection of articles, documentation and applications that are useful.
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 - [ConsoleMe: A Central Control Plane for AWS Permissions and Access - Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 - [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
+- [Figma - Design and Prototyping tool](https://www.figma.com/)
 
 ## Languages
 
