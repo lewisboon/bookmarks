@@ -17,6 +17,7 @@ Collection of articles, documentation and applications that are useful.
 - [An Introduction To Building And Sending HTML Email For Web Developers](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
 - [How I cut GTRA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) - [HN](https://news.ycombinator.com/item?id=26296339)
 - [Decoded: GNU coreutils](http://maizure.org/projects/decoded-gnu-coreutils/)
+- [Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 
 ## SDLC & Process
 
