@@ -161,6 +161,7 @@ Collection of articles, documentation and applications that are useful.
 - [Youtube Audio Library - Free Stock Music](https://studio.youtube.com/channel/UCD-2HtErgkrYu_WQfLFn6fg/music)
 - [Track your professional stats like a pro athlete to give your resume power](https://blog.petdance.com/2011/11/14/track-your-stats-like-a-pro-athlete-to-give-your-resume-power/)
 - [Ben Eater's 8-bit computer](https://eater.net/8bit/)
+- [The Peter Principle - Observation that people in a hierarchy tend to rise to their "level of incompetence"](https://en.wikipedia.org/wiki/Peter_principle)
 
 ## Blogs
 
