@@ -167,3 +167,7 @@ Collection of articles, documentation and applications that are useful.
 
 - [Stay SaaSy](https://staysaasy.com/)
 - [Stratechery - Analysis of tech and media companies](https://stratechery.com/)
+
+## Books
+
+- [Google's SRE Book](https://sre.google/sre-book/table-of-contents/)
