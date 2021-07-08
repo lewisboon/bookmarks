@@ -145,6 +145,7 @@ Collection of articles, documentation and applications that are useful.
 - [Writing well by Julian Shapiro](https://www.julian.com/guide/write/intro)
 - [Technical Writing Handbook](https://help.dozuki.com/Tech_Writing)
 - [Writing tools I learned from The Economist - Ahmed Soliman](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) - [HN Discussion](https://news.ycombinator.com/item?id=26700319)
+- [The Economist Style Guide](http://cdn.static-economist.com/sites/default/files/pdfs/style_guide_12.pdf)
 
 ## UI/UX/Web
 
