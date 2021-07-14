@@ -168,6 +168,7 @@ Collection of articles, documentation and applications that are useful.
 - [Ben Eater's 8-bit computer](https://eater.net/8bit/)
 - [The Peter Principle - Observation that people in a hierarchy tend to rise to their "level of incompetence"](https://en.wikipedia.org/wiki/Peter_principle)
 - [Stripe Atlas: Guide to pitching your startup](https://stripe.com/en-gb-be/atlas/guides/pitching)
+- [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 
 ## Blogs
 
