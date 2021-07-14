@@ -125,6 +125,10 @@ Collection of articles, documentation and applications that are useful.
 - [What Happens When... Kubernetes Edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 - [The tool that really runs your containers: deep dive into runc and OCI specifications](https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
 
+## Databases
+
+- [What does First Normal Form actually mean?](https://www.cargocultcode.com/what-does-first-normal-form-mean/) - [[HN Discussion](https://news.ycombinator.com/item?id=27538829)]
+
 ## Security
 
 - [vulhub - Github repo of vulnerable images for security testing](https://github.com/vulhub/vulhub)
