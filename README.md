@@ -125,6 +125,7 @@ Collection of articles, documentation and applications that are useful.
 
 - [What Happens When... Kubernetes Edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 - [The tool that really runs your containers: deep dive into runc and OCI specifications](https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
+- [An Updated Performance Comparison of Virtual Machines and Linux Containers - IBM Research Report](https://dominoweb.draco.res.ibm.com/reports/rc25482.pdf)
 
 ## Databases
 
