@@ -21,6 +21,7 @@ Collection of articles, documentation and applications that are useful.
 - [What the Fastly outage can teach us about writing error messages](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages) [[HN Discussion](https://news.ycombinator.com/item?id=27443519)]
 - [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - [[HN Article](https://news.ycombinator.com/item?id=27777594)]
 - [Kernel Bypass - Cloudflare Blog](https://blog.cloudflare.com/kernel-bypass/)
+- [DevTools - Leverage](https://explog.in/notes/devtools/leverage.html) - [HN Article](https://news.ycombinator.com/item?id=28251001)
 
 ## SDLC & Process
 
