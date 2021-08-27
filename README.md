@@ -63,6 +63,7 @@ Collection of articles, documentation and applications that are useful.
 - [Bash Error Handling](https://news.ycombinator.com/item?id=24727495)
 - [ShellCheck](https://github.com/koalaman/shellcheck)
 - [Shell keybindings to make life easier](https://stackoverflow.com/questions/38176514/re-run-previous-command-with-different-arguments/55067306#55067306)
+- [Illustrated Redirection Tutorial - Bash Hackers](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 
 ### F#
 
