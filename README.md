@@ -22,6 +22,7 @@ Collection of articles, documentation and applications that are useful.
 - [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - [[HN Article](https://news.ycombinator.com/item?id=27777594)]
 - [Kernel Bypass - Cloudflare Blog](https://blog.cloudflare.com/kernel-bypass/)
 - [DevTools - Leverage](https://explog.in/notes/devtools/leverage.html) - [HN Article](https://news.ycombinator.com/item?id=28251001)
+- [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
 
 ## SDLC & Process
 
