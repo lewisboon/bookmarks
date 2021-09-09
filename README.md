@@ -23,7 +23,7 @@ Collection of articles, documentation and applications that are useful.
 - [Kernel Bypass - Cloudflare Blog](https://blog.cloudflare.com/kernel-bypass/)
 - [DevTools - Leverage](https://explog.in/notes/devtools/leverage.html) - [HN Article](https://news.ycombinator.com/item?id=28251001)
 - [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
-- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/)
+- [Open-sourcing a more precise time appliance - Facebook](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) - [HN Article](https://news.ycombinator.com/item?id=28140732)
 
 ## SDLC & Process
 
