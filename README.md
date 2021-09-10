@@ -166,6 +166,7 @@ Collection of articles, documentation and applications that are useful.
 - [CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
 - [My Current HTML Boilerplate - Manuel Matuzovic](https://www.matuzo.at/blog/html-boilerplate/)
+- [WebSockets vs Server-Sent Events](https://ably.com/blog/websockets-vs-sse)
 
 ## Misc
 
