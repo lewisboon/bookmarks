@@ -180,6 +180,7 @@ Collection of articles, documentation and applications that are useful.
 - [The Peter Principle - Observation that people in a hierarchy tend to rise to their "level of incompetence"](https://en.wikipedia.org/wiki/Peter_principle)
 - [Stripe Atlas: Guide to pitching your startup](https://stripe.com/en-gb-be/atlas/guides/pitching)
 - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+- [Mister Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
 
 ## Blogs
 
