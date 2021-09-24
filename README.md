@@ -32,6 +32,7 @@ Collection of articles, documentation and applications that are useful.
 - [FCA Publication: Implementing Technology Change](https://www.fca.org.uk/publications/multi-firm-reviews/implementing-technology-change)
 - [Feature Toggles - Martin Fowler](https://martinfowler.com/articles/feature-toggles.html)
 - [GitHub presentation on how to begin an effective InnerSource program at your organization](https://www.linkedin.com/posts/github_were-live-on-demo-days-activity-6801566803488329729-b4O9)
+- [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking/)
 
 ## Standards
 
