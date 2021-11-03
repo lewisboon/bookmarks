@@ -24,6 +24,7 @@ Collection of articles, documentation and applications that are useful.
 - [DevTools - Leverage](https://explog.in/notes/devtools/leverage.html) - [HN Article](https://news.ycombinator.com/item?id=28251001)
 - [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
 - [Open-sourcing a more precise time appliance - Facebook](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) - [HN Article](https://news.ycombinator.com/item?id=28140732)
+- [How to win at CORS - Jake Archibald](https://jakearchibald.com/2021/cors/) - [HN Article](https://news.ycombinator.com/item?id=28861944)
 
 ## SDLC & Process
 
