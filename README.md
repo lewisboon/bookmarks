@@ -54,10 +54,20 @@ Collection of articles, documentation and applications that are useful.
 - [Commento - Disqus Alternative that can be self hosted](https://gitlab.com/commento/commento)
 - [ORY - Open Source OAuth 2.0/OIDC Server](https://www.ory.sh/hydra/)
 - [mtail - Generate metrics from logs](https://github.com/google/mtail)
-- [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 - [ConsoleMe: A Central Control Plane for AWS Permissions and Access - Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
-- [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
 - [Figma - Design and Prototyping tool](https://www.figma.com/)
+
+### APM & Observability
+
+- [Datadog](https://www.datadoghq.com/)
+- [Splunk](https://www.splunk.com/)
+- [New Relic](https://newrelic.com/)
+
+### CLI
+
+- [rg - Ripgrep - Grep in Rust with extras](https://github.com/BurntSushi/ripgrep)
+- [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
+- [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 
 ## Languages
 
