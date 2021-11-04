@@ -69,6 +69,7 @@ Collection of articles, documentation and applications that are useful.
 - [rg - Ripgrep - Grep in Rust with extras](https://github.com/BurntSushi/ripgrep)
 - [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
+- [stress-ng - Stress testing tool for Linux systems](https://github.com/ColinIanKing/stress-ng)
 
 ## Languages
 
