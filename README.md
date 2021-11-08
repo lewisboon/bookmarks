@@ -43,10 +43,11 @@ Collection of articles, documentation and applications that are useful.
 ## Interesting Articles
 
 - [Facebook Redesign](https://engineering.fb.com/web/facebook-redesign/)
-- [To all jobs I had before](https://elisabethirgens.github.io/notes/2020/09/to-all-jobs-i-had-before/) - [HN](https://news.ycombinator.com/item?id=24502983)
-- [How we build the Github Globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/) - [HN](https://news.ycombinator.com/item?id=25584720)
+- [To all jobs I had before](https://elisabethirgens.github.io/notes/2020/09/to-all-jobs-i-had-before/) - [HN Discussion](https://news.ycombinator.com/item?id=24502983)
+- [How we build the Github Globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/) - [HN Discussion](https://news.ycombinator.com/item?id=25584720)
 - [Algorithmic Trading on AWS with Amazon SageMaker and AWS Data Exchange](https://aws.amazon.com/blogs/industries/algorithmic-trading-on-aws-with-amazon-sagemaker-and-aws-data-exchange/)
 - [Docker without Docker - fly.io](https://fly.io/blog/docker-without-docker/) - [[HN Discussion](https://news.ycombinator.com/item?id=26746280)]
+- [You should use forums rather than Slack/Discord to support developer community](https://www.mooreds.com/wordpress/archives/3451) - [HN Discussion](https://news.ycombinator.com/item?id=29154216)
 
 ## Software
 
