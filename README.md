@@ -148,6 +148,7 @@ Collection of articles, documentation and applications that are useful.
 ## Databases
 
 - [What does First Normal Form actually mean?](https://www.cargocultcode.com/what-does-first-normal-form-mean/) - [[HN Discussion](https://news.ycombinator.com/item?id=27538829)]
+- [Update your Database Schema Without Downtime](https://thorben-janssen.com/update-database-schema-without-downtime/)
 
 ## Security
 
