@@ -58,6 +58,7 @@ Collection of articles, documentation and applications that are useful.
 - [mtail - Generate metrics from logs](https://github.com/google/mtail)
 - [ConsoleMe: A Central Control Plane for AWS Permissions and Access - Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 - [Figma - Design and Prototyping tool](https://www.figma.com/)
+- [CodeSandbox - Prototype web code in your browser](https://codesandbox.io/)
 
 ### APM & Observability
 
