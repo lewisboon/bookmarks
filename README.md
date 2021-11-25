@@ -150,6 +150,7 @@ Collection of articles, documentation and applications that are useful.
 
 - [What does First Normal Form actually mean?](https://www.cargocultcode.com/what-does-first-normal-form-mean/) - [[HN Discussion](https://news.ycombinator.com/item?id=27538829)]
 - [Update your Database Schema Without Downtime](https://thorben-janssen.com/update-database-schema-without-downtime/)
+- [42 things I learned from building a production database - mahesh's blog](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 
 ## Security
 
