@@ -34,6 +34,7 @@ Collection of articles, documentation and applications that are useful.
 - [Feature Toggles - Martin Fowler](https://martinfowler.com/articles/feature-toggles.html)
 - [GitHub presentation on how to begin an effective InnerSource program at your organization](https://www.linkedin.com/posts/github_were-live-on-demo-days-activity-6801566803488329729-b4O9)
 - [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking/)
+- [Dev environments as code](https://www.gitpod.io/blog/dev-env-as-code)
 
 ## Standards
 
