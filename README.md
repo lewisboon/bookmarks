@@ -139,6 +139,9 @@ Collection of articles, documentation and applications that are useful.
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [One Man SaaS Architecture - Anthony Najjar Simon](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [Delos: Simple, flexible storage for the Facebook control plane](https://engineering.fb.com/2019/06/06/data-center-engineering/delos/)
+  - Similar:
+  - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 
 ## Docker, OCI, and Kubernetes
 
