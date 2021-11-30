@@ -74,6 +74,7 @@ Collection of articles, documentation and applications that are useful.
 - [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 - [stress-ng - Stress testing tool for Linux systems](https://github.com/ColinIanKing/stress-ng)
+- [fio - IO testing tool](https://fio.readthedocs.io/en/latest/fio_doc.html)
 
 ## Languages
 
