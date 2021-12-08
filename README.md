@@ -147,7 +147,11 @@ Collection of articles, documentation and applications that are useful.
   - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 - [Managing risks in research](https://alastairreid.github.io/research-risks/)
 
-## Docker, OCI, and Kubernetes
+## Deployment
+
+- [Why you should take a look at Nomad before jumping on Kubernetes](https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/)
+
+### Docker, OCI, and Kubernetes
 
 - [What Happens When... Kubernetes Edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 - [The tool that really runs your containers: deep dive into runc and OCI specifications](https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
