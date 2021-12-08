@@ -210,6 +210,7 @@ Collection of articles, documentation and applications that are useful.
 - [Stripe Atlas: Guide to pitching your startup](https://stripe.com/en-gb-be/atlas/guides/pitching)
 - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 - [Mister Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/)
+- [How to achieve low latency with 10Gbps Ethernet - CloudFlare](https://blog.cloudflare.com/how-to-achieve-low-latency/)
 
 ## Blogs
 
