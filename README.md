@@ -50,6 +50,7 @@ Collection of articles, documentation and applications that are useful.
 - [Algorithmic Trading on AWS with Amazon SageMaker and AWS Data Exchange](https://aws.amazon.com/blogs/industries/algorithmic-trading-on-aws-with-amazon-sagemaker-and-aws-data-exchange/)
 - [Docker without Docker - fly.io](https://fly.io/blog/docker-without-docker/) - [[HN Discussion](https://news.ycombinator.com/item?id=26746280)]
 - [You should use forums rather than Slack/Discord to support developer community](https://www.mooreds.com/wordpress/archives/3451) - [[HN Discussion](https://news.ycombinator.com/item?id=29154216)]
+- [I/O Rings – When One I/O Operation is Not Enough](https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/)
 
 ## Software
 
@@ -124,6 +125,7 @@ Collection of articles, documentation and applications that are useful.
 - [Rust's Runtime - Michael Gattozzi](https://blog.mgattozzi.dev/rusts-runtime/)
 - [Traits and static dispatch in Rust](https://blog.rust-lang.org/2015/05/11/traits.html)
 - [Status quo stories - How developers are using Rust](https://rust-lang.github.io/wg-async-foundations/vision/status_quo.html)
+- [Monoio - A thread-per-core Rust runtime with io_uring](https://github.com/bytedance/monoio)
 
 #### Rust @ _
 - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
