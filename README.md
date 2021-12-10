@@ -198,6 +198,7 @@ Collection of articles, documentation and applications that are useful.
 - [My Current HTML Boilerplate - Manuel Matuzovic](https://www.matuzo.at/blog/html-boilerplate/)
 - [WebSockets vs Server-Sent Events](https://ably.com/blog/websockets-vs-sse)
 - [Storybook: UI Component Explorer for Frontend Developers](https://storybook.js.org/)
+- [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 
 ## Misc
 
