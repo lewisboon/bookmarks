@@ -51,6 +51,7 @@ Collection of articles, documentation and applications that are useful.
 - [Docker without Docker - fly.io](https://fly.io/blog/docker-without-docker/) - [[HN Discussion](https://news.ycombinator.com/item?id=26746280)]
 - [You should use forums rather than Slack/Discord to support developer community](https://www.mooreds.com/wordpress/archives/3451) - [[HN Discussion](https://news.ycombinator.com/item?id=29154216)]
 - [I/O Rings – When One I/O Operation is Not Enough](https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/)
+- [What does a Principal Software Engineer do?](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
 
 ## Software
 
