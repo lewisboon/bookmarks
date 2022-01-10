@@ -201,6 +201,10 @@ Collection of articles, documentation and applications that are useful.
 - [Storybook: UI Component Explorer for Frontend Developers](https://storybook.js.org/)
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 
+### Repositories/Resources
+
+- [Iconoir - Free SVG icons](https://iconoir.com/)
+
 ## Misc
 
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/)
