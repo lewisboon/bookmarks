@@ -64,6 +64,7 @@ Collection of articles, documentation and applications that are useful.
 - [ConsoleMe: A Central Control Plane for AWS Permissions and Access - Netflix](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 - [Figma - Design and Prototyping tool](https://www.figma.com/)
 - [CodeSandbox - Prototype web code in your browser](https://codesandbox.io/)
+- [CyberChef – The Cyber Swiss Army Knife - GCHQ](https://gchq.github.io/CyberChef/) - [[HN Discussion](https://news.ycombinator.com/item?id=29982286)]
 
 ### APM & Observability
 
