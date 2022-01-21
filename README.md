@@ -53,6 +53,7 @@ Collection of articles, documentation and applications that are useful.
 - [I/O Rings – When One I/O Operation is Not Enough](https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/)
 - [What does a Principal Software Engineer do?](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
 - [A simple argument for investing in your pricing - cranberry blog](https://cranberryblog.substack.com/p/a-simple-argument-for-investing-in)
+- [Roblox Return to Service 10/28-10/31 2021 - Postmortum](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
 
 ## Software
 
