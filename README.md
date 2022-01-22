@@ -25,6 +25,7 @@ Collection of articles, documentation and applications that are useful.
 - [The Case of the 50ms request](https://mysteries.wizardzines.com/50ms-request.html)
 - [Open-sourcing a more precise time appliance - Facebook](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) - [HN Article](https://news.ycombinator.com/item?id=28140732)
 - [How to win at CORS - Jake Archibald](https://jakearchibald.com/2021/cors/) - [HN Article](https://news.ycombinator.com/item?id=28861944)
+- [How NAT Traversal Works - Tailscale](https://tailscale.com/blog/how-nat-traversal-works/)
 
 ## SDLC & Process
 
@@ -66,6 +67,7 @@ Collection of articles, documentation and applications that are useful.
 - [Figma - Design and Prototyping tool](https://www.figma.com/)
 - [CodeSandbox - Prototype web code in your browser](https://codesandbox.io/)
 - [CyberChef – The Cyber Swiss Army Knife - GCHQ](https://gchq.github.io/CyberChef/) - [[HN Discussion](https://news.ycombinator.com/item?id=29982286)]
+- [TailScale - Zero config VPN - Great for securely accessing home network](https://tailscale.com/)
 
 ### APM & Observability
 
