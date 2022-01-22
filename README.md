@@ -180,6 +180,7 @@ Collection of articles, documentation and applications that are useful.
 - [sigstore - non-profit, public good software signing & transparency service](https://sigstore.dev/)
 - [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - [HN Discussion](https://news.ycombinator.com/item?id=26446337)
 - [10 real-world stories of how we’ve compromised CI/CD pipelines - nccgroup](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/) - [[HN Discussion](https://news.ycombinator.com/item?id=29965381)]
+- [https://www.netmeister.org/blog/infosec-skillsets.html](https://www.netmeister.org/blog/infosec-skillsets.html) - [[HN Discussion](https://news.ycombinator.com/item?id=30019603)]
 
 ## How to Write
 
