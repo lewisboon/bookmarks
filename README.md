@@ -181,6 +181,7 @@ Collection of articles, documentation and applications that are useful.
 - [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - [HN Discussion](https://news.ycombinator.com/item?id=26446337)
 - [10 real-world stories of how we’ve compromised CI/CD pipelines - nccgroup](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/) - [[HN Discussion](https://news.ycombinator.com/item?id=29965381)]
 - [https://www.netmeister.org/blog/infosec-skillsets.html](https://www.netmeister.org/blog/infosec-skillsets.html) - [[HN Discussion](https://news.ycombinator.com/item?id=30019603)]
+- [I read the federal government’s Zero-Trust Memo so you don’t have to - BastionZero Blog](https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to)
 
 ## How to Write
 
