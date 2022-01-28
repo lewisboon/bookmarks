@@ -141,6 +141,7 @@ Collection of articles, documentation and applications that are useful.
 ### WASM
 
 - [Hands on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+- [How Prime Video updates its app for more than 8,000 device types](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types) - [[HN Discussion](https://news.ycombinator.com/item?id=30107540)]
 
 ## Architecture
 
