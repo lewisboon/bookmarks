@@ -107,6 +107,7 @@ Collection of articles, documentation and applications that are useful.
 - [Practical Go Lessons](https://www.practical-go-lessons.com/) - [HN Discussion](https://news.ycombinator.com/item?id=26568014)
 - [Golang Standards: Project Layout](https://github.com/golang-standards/project-layout)
 - [Different approaches to HTTP routing in Go - Ben Hoyt](https://benhoyt.com/writings/go-routing/)
+- [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
 
 ### Java
 
