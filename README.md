@@ -243,6 +243,7 @@ Collection of articles, documentation and applications that are useful.
 - [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)
 - [Increment Magazine by Stripe](https://increment.com/)
 - [Robert Heaton](https://robertheaton.com/)
+- [Julia Evans](https://jvns.ca/)
 
 ## Books
 
