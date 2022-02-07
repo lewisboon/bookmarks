@@ -246,6 +246,7 @@ Collection of articles, documentation and applications that are useful.
 - [Julia Evans](https://jvns.ca/)
 - [Tania Rascia](https://www.taniarascia.com/)
 - [Fabien Sanglard](https://fabiensanglard.net/)
+- [Josh W Comeau - Great write ups of Web Tech, especially CSS](https://www.joshwcomeau.com/)
 
 ## Books
 
