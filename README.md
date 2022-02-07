@@ -244,6 +244,8 @@ Collection of articles, documentation and applications that are useful.
 - [Increment Magazine by Stripe](https://increment.com/)
 - [Robert Heaton](https://robertheaton.com/)
 - [Julia Evans](https://jvns.ca/)
+- [Tania Rascia](https://www.taniarascia.com/)
+- [Fabien Sanglard](https://fabiensanglard.net/)
 
 ## Books
 
