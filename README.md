@@ -117,6 +117,7 @@ Collection of articles, documentation and applications that are useful.
 - [The Exceptional Performance of Lil' Exception](https://shipilev.net/blog/2014/exceptional-performance/)
 - [JMC Tutorial](https://github.com/thegreystone/jmc-tutorial) - [JMC 8 Binary Releases Blog Post - Marcus Hirt](http://hirt.se/blog/?p=1312)
 - [violations-lib - Easily convert between code analysis formats](https://github.com/tomasbjerre/violations-lib)
+- [The JDK Flight Recorder File Format - Gunnar Morling](https://www.morling.dev/blog/jdk-flight-recorder-file-format/) - [[HN Discussion](https://news.ycombinator.com/item?id=30415450)]
 
 ### JavaScript
 
