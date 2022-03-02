@@ -205,6 +205,7 @@ Collection of articles, documentation and applications that are useful.
 - [Technical Writing Handbook](https://help.dozuki.com/Tech_Writing)
 - [Writing tools I learned from The Economist - Ahmed Soliman](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) - [HN Discussion](https://news.ycombinator.com/item?id=26700319)
 - [The Economist Style Guide](http://cdn.static-economist.com/sites/default/files/pdfs/style_guide_12.pdf)
+- [4 Pillars of Documentation - Aka Grand Unified Theory of Documentation - Divio](https://documentation.divio.com/)
 
 ## UI/UX/Web
 
