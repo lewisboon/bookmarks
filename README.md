@@ -56,6 +56,7 @@ Collection of articles, documentation and applications that are useful.
 - [A simple argument for investing in your pricing - cranberry blog](https://cranberryblog.substack.com/p/a-simple-argument-for-investing-in)
 - [Roblox Return to Service 10/28-10/31 2021 - Postmortum](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
 - [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html)
+- [The Scoop: Inside Fast’s Rapid Collapse](https://newsletter.pragmaticengineer.com/p/the-scoop-fast?s=r) - [[HN Discussion](https://news.ycombinator.com/item?id=30947595)]
 
 ## Software
 
