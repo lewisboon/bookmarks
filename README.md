@@ -26,6 +26,7 @@ Collection of articles, documentation and applications that are useful.
 - [Open-sourcing a more precise time appliance - Facebook](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) - [HN Article](https://news.ycombinator.com/item?id=28140732)
 - [How to win at CORS - Jake Archibald](https://jakearchibald.com/2021/cors/) - [HN Article](https://news.ycombinator.com/item?id=28861944)
 - [How NAT Traversal Works - Tailscale](https://tailscale.com/blog/how-nat-traversal-works/)
+- [What I learned from making a DNS client in Rust - Adam Chalmers](https://blog.adamchalmers.com/making-a-dns-client/) - [[HN Discussion](https://news.ycombinator.com/item?id=30983245)]
 
 ## SDLC & Process
 
