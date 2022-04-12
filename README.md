@@ -141,6 +141,11 @@ Collection of articles, documentation and applications that are useful.
 - [Status quo stories - How developers are using Rust](https://rust-lang.github.io/wg-async-foundations/vision/status_quo.html)
 - [Monoio - A thread-per-core Rust runtime with io_uring](https://github.com/bytedance/monoio)
 
+#### Rust Tools
+
+- [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger) - A program that analyses your Cargo.toml file and shows you the proportion of code that is using `unsafe {}`
+- [clap](https://docs.rs/clap/latest/clap/) - One of the more popular command line argument parsing solutions
+
 #### Rust @ _
 - [Inside Rust at Embark](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
 - [Rust in production at 1Password](https://serokell.io/blog/rust-in-production-1password)
