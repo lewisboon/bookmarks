@@ -27,6 +27,7 @@ Collection of articles, documentation and applications that are useful.
 - [How to win at CORS - Jake Archibald](https://jakearchibald.com/2021/cors/) - [HN Article](https://news.ycombinator.com/item?id=28861944)
 - [How NAT Traversal Works - Tailscale](https://tailscale.com/blog/how-nat-traversal-works/)
 - [What I learned from making a DNS client in Rust - Adam Chalmers](https://blog.adamchalmers.com/making-a-dns-client/) - [[HN Discussion](https://news.ycombinator.com/item?id=30983245)]
+- [The complete guide to protecting your APIs with OAuth2 - Stack Overflow Blog](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) - [[HN Discussion](https://news.ycombinator.com/item?id=31004928)]
 
 ## SDLC & Process
 
