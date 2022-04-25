@@ -60,6 +60,7 @@ Collection of articles, documentation and applications that are useful.
 - [Firecracker: Lightweight Virtualization for Serverless Applications](https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html)
 - [The Scoop: Inside Fast’s Rapid Collapse](https://newsletter.pragmaticengineer.com/p/the-scoop-fast?s=r) - [[HN Discussion](https://news.ycombinator.com/item?id=30947595)]
 - [Scaling lessons learned at Dropbox, part 1](https://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1) - [[HN Discussion](https://news.ycombinator.com/item?id=30942751)]
+- [Three Architectures for a Responsive IDE](https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html)
 
 ## Software
 
