@@ -40,6 +40,10 @@ Collection of articles, documentation and applications that are useful.
 - [Dev environments as code](https://www.gitpod.io/blog/dev-env-as-code)
 - [Choose Boring Technology - Dan McKinley](https://mcfunley.com/choose-boring-technology) - On new projects you have 3 innovation tokens. You can spend these on new technologies.
 
+### DDD (Domain Driven Design)
+
+- [Domain Driven Design Reference - Eric Evans](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - [[HN Discussion](https://news.ycombinator.com/item?id=31162623)]
+
 ## Standards
 
 - [Unicode in Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
