@@ -112,7 +112,7 @@ Collection of articles, documentation and applications that are useful.
 ### Golang
 
 - [Ask HN: Which are the best Go repositories to read to learn the language?](https://news.ycombinator.com/item?id=25812021)
-- [I Want Off Mr Golangs Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
+- [I Want Off Mr Golangs Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) - [HN Discussions [1](https://news.ycombinator.com/item?id=22443363) [2](https://news.ycombinator.com/item?id=25616593) [3](https://news.ycombinator.com/item?id=31191700)]
 - [Practical Go Lessons](https://www.practical-go-lessons.com/) - [HN Discussion](https://news.ycombinator.com/item?id=26568014)
 - [Golang Standards: Project Layout](https://github.com/golang-standards/project-layout)
 - [Different approaches to HTTP routing in Go - Ben Hoyt](https://benhoyt.com/writings/go-routing/)
