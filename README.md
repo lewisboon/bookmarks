@@ -234,6 +234,7 @@ Collection of articles, documentation and applications that are useful.
 - [WebSockets vs Server-Sent Events](https://ably.com/blog/websockets-vs-sse)
 - [Storybook: UI Component Explorer for Frontend Developers](https://storybook.js.org/)
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
+- [The 7 Tasks](https://eugenkiss.github.io/7guis/tasks/) - 7 tasks that can be used to challenge GUI frameworks in different ways
 
 ### Repositories/Resources
 
