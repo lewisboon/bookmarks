@@ -148,6 +148,7 @@ Collection of articles, documentation and applications that are useful.
 - [Traits and static dispatch in Rust](https://blog.rust-lang.org/2015/05/11/traits.html)
 - [Status quo stories - How developers are using Rust](https://rust-lang.github.io/wg-async-foundations/vision/status_quo.html)
 - [Monoio - A thread-per-core Rust runtime with io_uring](https://github.com/bytedance/monoio)
+- [Arc and Mutex in Rust | Its all about the bit](https://itsallaboutthebit.com/arc-mutex/) - [[HN Discussion](https://news.ycombinator.com/item?id=31628027)]
 
 #### Rust Tools
 
