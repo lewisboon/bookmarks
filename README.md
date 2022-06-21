@@ -149,7 +149,7 @@ Collection of articles, documentation and applications that are useful.
 - [Status quo stories - How developers are using Rust](https://rust-lang.github.io/wg-async-foundations/vision/status_quo.html)
 - [Monoio - A thread-per-core Rust runtime with io_uring](https://github.com/bytedance/monoio)
 - [Arc and Mutex in Rust | Its all about the bit](https://itsallaboutthebit.com/arc-mutex/) - [[HN Discussion](https://news.ycombinator.com/item?id=31628027)]
-- [Beginner's Series to Rust - Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
+- [Beginner's Series to Rust - Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/) - [[HN Discussion](https://news.ycombinator.com/item?id=31824185)]
 
 #### Rust Tools
 
