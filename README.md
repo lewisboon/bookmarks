@@ -92,6 +92,7 @@ Collection of articles, documentation and applications that are useful.
 
 - [rg - Ripgrep - Grep in Rust with extras](https://github.com/BurntSushi/ripgrep)
 - [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
+- [miller - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 - [stress-ng - Stress testing tool for Linux systems](https://github.com/ColinIanKing/stress-ng)
 - [fio - IO testing tool](https://fio.readthedocs.io/en/latest/fio_doc.html)
@@ -225,6 +226,10 @@ Collection of articles, documentation and applications that are useful.
 - [Writing tools I learned from The Economist - Ahmed Soliman](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) - [HN Discussion](https://news.ycombinator.com/item?id=26700319)
 - [The Economist Style Guide](http://cdn.static-economist.com/sites/default/files/pdfs/style_guide_12.pdf)
 - [4 Pillars of Documentation - Aka Grand Unified Theory of Documentation - Divio](https://documentation.divio.com/)
+
+### Examples of good documentation
+
+- [Stripe Documentation](https://stripe.com/docs) 
 
 ## UI/UX/Web
 
