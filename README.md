@@ -227,6 +227,7 @@ Collection of articles, documentation and applications that are useful.
 - [Writing tools I learned from The Economist - Ahmed Soliman](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) - [HN Discussion](https://news.ycombinator.com/item?id=26700319)
 - [The Economist Style Guide](http://cdn.static-economist.com/sites/default/files/pdfs/style_guide_12.pdf)
 - [4 Pillars of Documentation - Aka Grand Unified Theory of Documentation - Divio](https://documentation.divio.com/)
+- [Google's Technical Writing Course](https://developers.google.com/tech-writing)
 
 ### Diagramming Tools
 
