@@ -200,6 +200,7 @@ Collection of articles, documentation and applications that are useful.
 - [Update your Database Schema Without Downtime](https://thorben-janssen.com/update-database-schema-without-downtime/)
 - [42 things I learned from building a production database - mahesh's blog](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html) - [[HN Discussion](https://news.ycombinator.com/item?id=29322515)]
 - [Migrating bajillions of database records at Stripe - Robert Heaton](https://robertheaton.com/2015/08/31/migrating-bajillions-of-database-records-at-stripe/)
+- [How to Correctly Handle DB Schemas During Kubernetes Rollouts](https://www.weave.works/blog/how-to-correctly-handle-db-schemas-during-kubernetes-rollouts)
 
 ## Security
 
