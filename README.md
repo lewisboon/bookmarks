@@ -42,6 +42,7 @@ Collection of articles, documentation and applications that are useful.
 - [No-bullshit tenets for faster decision-making](https://www.rubick.com/tenets-for-faster-decisionmaking/)
 - [Dev environments as code](https://www.gitpod.io/blog/dev-env-as-code)
 - [Choose Boring Technology - Dan McKinley](https://mcfunley.com/choose-boring-technology) - On new projects you have 3 innovation tokens. You can spend these on new technologies.
+- [Continuous Load Testing - Slack Engineering](https://slack.engineering/continuous-load-testing/)
 
 ### DDD (Domain Driven Design)
 
