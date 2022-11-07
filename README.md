@@ -142,6 +142,8 @@ Collection of articles, documentation and applications that are useful.
 ### Rust
 
 - [Rust Cheatsheet - cheats.rs](https://cheats.rs/)
+- [blessed.rs - Recommended crates for common problems](https://blessed.rs/crates) - [[HN Discussion](https://news.ycombinator.com/item?id=33506132)]
+
 - [Periodic Table of Rust Types](https://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
 - [A half hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Learning Rust from a Gopher](https://levpaul.com/categories/learning-rust/)
