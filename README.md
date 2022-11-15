@@ -97,6 +97,10 @@ Collection of articles, documentation and applications that are useful.
 
 - [rg - Ripgrep - Grep in Rust with extras](https://github.com/BurntSushi/ripgrep)
 - [fzf - CLI fuzzy finder](https://github.com/junegunn/fzf)
+- [fd - Find replacement](https://github.com/sharkdp/fd)
+- [procs - ps replacement](https://github.com/dalance/procs)
+- [bat - cat with syntax highlighting](https://github.com/sharkdp/bat)
+- [exa - ls replacement](https://github.com/ogham/exa)
 - [miller - Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
 - [gping - Graphical ping CLI written in Rust](https://github.com/orf/gping)
 - [stress-ng - Stress testing tool for Linux systems](https://github.com/ColinIanKing/stress-ng)
