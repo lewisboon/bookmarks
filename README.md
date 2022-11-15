@@ -235,6 +235,7 @@ Collection of articles, documentation and applications that are useful.
 - [The Economist Style Guide](http://cdn.static-economist.com/sites/default/files/pdfs/style_guide_12.pdf)
 - [4 Pillars of Documentation - Aka Grand Unified Theory of Documentation - Divio](https://documentation.divio.com/)
 - [Google's Technical Writing Course](https://developers.google.com/tech-writing)
+- [writing one sentence per line](https://sive.rs/1s) [[HN Discussion](https://news.ycombinator.com/item?id=31808093)]
 
 ### Diagramming Tools
 
