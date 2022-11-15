@@ -43,6 +43,7 @@ Collection of articles, documentation and applications that are useful.
 - [Dev environments as code](https://www.gitpod.io/blog/dev-env-as-code)
 - [Choose Boring Technology - Dan McKinley](https://mcfunley.com/choose-boring-technology) - On new projects you have 3 innovation tokens. You can spend these on new technologies.
 - [Continuous Load Testing - Slack Engineering](https://slack.engineering/continuous-load-testing/)
+- [Conventional Commits](https://www.conventionalcommits.org/)
 
 ### DDD (Domain Driven Design)
 
