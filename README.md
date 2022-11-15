@@ -219,6 +219,7 @@ Collection of articles, documentation and applications that are useful.
 - [I read the federal government’s Zero-Trust Memo so you don’t have to - BastionZero Blog](https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to) [[HN Discussion](https://news.ycombinator.com/item?id=30101411)]
 - [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/) - [[HN Discussion](https://news.ycombinator.com/item?id=27416736)]
 - [How we secure Monzo’s banking platform](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform) - [[HN Discussion](https://news.ycombinator.com/item?id=30876527)]
+- [10 real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 
 ## How to Write
 
