@@ -269,6 +269,7 @@ Collection of articles, documentation and applications that are useful.
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 - [The 7 Tasks](https://eugenkiss.github.io/7guis/tasks/) - 7 tasks that can be used to challenge GUI frameworks in different ways
 - [You probably don't need a single-page application - Plausible Blog](https://plausible.io/blog/you-probably-dont-need-a-single-page-app)
+- [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) - [[HN Discussion](https://news.ycombinator.com/item?id=34684761)]
 
 ### Repositories/Resources
 
