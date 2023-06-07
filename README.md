@@ -208,6 +208,7 @@ Collection of articles, documentation and applications that are useful.
 - [An Updated Performance Comparison of Virtual Machines and Linux Containers - IBM Research Report](https://dominoweb.draco.res.ibm.com/reports/rc25482.pdf)
 - [Two reasons Kubernetes is so complex](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/) [[HN Discussion](https://news.ycombinator.com/item?id=30096674)]
 - [cilium: eBPF-based Networking](https://github.com/cilium/cilium)
+- [Introduction to Cilium - Linux Foundation - edX](https://www.edx.org/course/introduction-to-cilium)
 
 ## Databases
 
