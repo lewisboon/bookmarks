@@ -44,6 +44,7 @@ Collection of articles, documentation and applications that are useful.
 - [Choose Boring Technology - Dan McKinley](https://mcfunley.com/choose-boring-technology) - On new projects you have 3 innovation tokens. You can spend these on new technologies.
 - [Continuous Load Testing - Slack Engineering](https://slack.engineering/continuous-load-testing/)
 - [Conventional Commits](https://www.conventionalcommits.org/)
+- [Why T-shaped people? - Jason Yip](https://jchyip.medium.com/why-t-shaped-people-e8706198e437)
 
 ### DDD (Domain Driven Design)
 
