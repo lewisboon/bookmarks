@@ -169,6 +169,7 @@ Collection of articles, documentation and applications that are useful.
 - [Monoio - A thread-per-core Rust runtime with io_uring](https://github.com/bytedance/monoio)
 - [Arc and Mutex in Rust | Its all about the bit](https://itsallaboutthebit.com/arc-mutex/) - [[HN Discussion](https://news.ycombinator.com/item?id=31628027)]
 - [Beginner's Series to Rust - Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/) - [[HN Discussion](https://news.ycombinator.com/item?id=31824185)]
+- [A half-hour to learn Rust - fasterthanlime](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 #### Rust Tools
 
