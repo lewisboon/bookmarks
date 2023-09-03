@@ -170,7 +170,7 @@ Collection of articles, documentation and applications that are useful.
 - [Arc and Mutex in Rust | Its all about the bit](https://itsallaboutthebit.com/arc-mutex/) - [[HN Discussion](https://news.ycombinator.com/item?id=31628027)]
 - [Beginner's Series to Rust - Microsoft](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/) - [[HN Discussion](https://news.ycombinator.com/item?id=31824185)]
 - [A half-hour to learn Rust - fasterthanlime](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-
+- [TiKV - Open source, distributed, transactional KV store written in Rust using Raft](https://github.com/tikv/tikv)
 #### Rust Tools
 
 - [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger) - A program that analyses your Cargo.toml file and shows you the proportion of code that is using `unsafe {}`
