@@ -32,6 +32,7 @@ Collection of articles, documentation and applications that are useful.
 - [Dev tools: The ex-Googler guide](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
 - [How to Build Software like an SRE](https://www.willett.io/posts/precepts/) - [[HN Discussion](https://news.ycombinator.com/item?id=33230402)]
 - [Google-Wide Profiling: A Continuous Profiling Infrastructure for Data Centers](https://research.google/pubs/google-wide-profiling-a-continuous-profiling-infrastructure-for-data-centers/)
+- [Your API Shouldn't Redirect HTTP to HTTPS - jviide](https://jviide.iki.fi/http-redirects) - [[HN Discussion]](https://news.ycombinator.com/item?id=40504756)
 
 ## SDLC & Process
 
