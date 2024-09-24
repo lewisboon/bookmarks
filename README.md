@@ -102,6 +102,8 @@ Collection of articles, documentation and applications that are useful.
 - [Datadog](https://www.datadoghq.com/)
 - [Splunk](https://www.splunk.com/)
 - [New Relic](https://newrelic.com/)
+- [Selector](https://www.selector.ai/platform/)
+- [Sloth - Prometheus SLO Generator](https://sloth.dev/)
 
 ### CLI
 
@@ -279,6 +281,10 @@ Collection of articles, documentation and applications that are useful.
 - [The 7 Tasks](https://eugenkiss.github.io/7guis/tasks/) - 7 tasks that can be used to challenge GUI frameworks in different ways
 - [You probably don't need a single-page application - Plausible Blog](https://plausible.io/blog/you-probably-dont-need-a-single-page-app)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) - [[HN Discussion](https://news.ycombinator.com/item?id=34684761)]
+
+## Cloud
+
+- [https://cloud.google.com/distributed-cloud-air-gapped](Google Distributed Cloud air-gapped)
 
 ### Repositories/Resources
 
