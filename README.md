@@ -240,6 +240,7 @@ Collection of articles, documentation and applications that are useful.
 - [The SaaS CTO Security Checklist Redux](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/) - [[HN Discussion](https://news.ycombinator.com/item?id=27416736)]
 - [How we secure Monzo’s banking platform](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform) - [[HN Discussion](https://news.ycombinator.com/item?id=30876527)]
 - [CISA - Security-by-Design and -Default](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
+- [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 
 ## How to Write
 
